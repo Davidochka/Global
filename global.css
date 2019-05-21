@@ -118,29 +118,54 @@ p{
 	font-size: 14px;
 }
 .secondslide{
-
+	margin-top: 1%;
 }
 .selectwork{
-
+	/* display: flex; */
+	/* justify-content: center; */
+	margin-left: 8%;
 }
 .metiew-smith{
-
+	margin-left: 3.8%;
+	margin-right: 1%;
+	margin-top: 7%; 
 }
 .work-victory{
-
+ margin-left: 3.9%;
+ margin-top: 80%;
 }
 .work-alex-nowak{
-
+	margin-right: 3.9%;
+  margin-top: 80%;
 }
 .victory{
-
+  margin-left: 56%;
 }
 .alex-novak{
-
+	margin-left: 15%;
 }
 .arrow_left{
-d
+ margin-left: 12.2%;
+ margin-top: 84%;
+}
+.arrow_right{
+	margin-right: 12.2%;
+  margin-top: 84%;
 }
 .arrow_left:hover{
+	opacity: 0.4;
+}
+.arrow_right:hover{
+	opacity: 0.4;
+}
+img.radius{
+	border-radius: 50%;
+}
+.cursor{
+	cursor: pointer;
+	font-weight: bold;
+}
+.flex{
 
 }
+
