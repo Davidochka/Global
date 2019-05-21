@@ -1,0 +1,2 @@
+text-transform: uppercase;
+http://htmlbook.ru/css/visibility
