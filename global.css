@@ -2,9 +2,12 @@ body{
 	background-color:#0c0c0c;
 	font-family: 'Montserrat', sans-serif;
 	color: white;
+	text-transform: uppercase;
 }
-.header{
-	position: absolute;
+header{
+	/* position: absolute; */
+	z-index: 4;
+	position: fixed;
   top: 0;
   left: 0;
   width: 100%;
@@ -18,7 +21,7 @@ body{
 	margin: 4px 0 0 42px;
   font-size: 16px;
   font-weight: 800;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	color: white;
 }
 .logoimg{
@@ -123,7 +126,7 @@ p{
 .selectwork{
 	/* display: flex; */
 	/* justify-content: center; */
-	margin-left: 8%;
+	margin-left: 2%;
 }
 .metiew-smith{
 	margin-left: 3.8%;
@@ -139,10 +142,10 @@ p{
   margin-top: 80%;
 }
 .victory{
-  margin-left: 56%;
+  margin-left: 51%;
 }
 .alex-novak{
-	margin-left: 15%;
+	margin-left: 13%;
 }
 .arrow_left{
  margin-left: 12.2%;
@@ -165,7 +168,18 @@ img.radius{
 	cursor: pointer;
 	font-weight: bold;
 }
-.flex{
-
+.fonts{
+	margin-left: 8%; 
+	margin-top: 25px;
+	font-size: 13px;
+}
+.s{
+	font-size: 20px;
+	margin-left: 19%;
+}
+.transform{
+	margin-top: 10px;
+	font-size: 12px;
+  font-weight: 700;
 }
 
